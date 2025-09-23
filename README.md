@@ -61,9 +61,4 @@ Live URL: https://your-portfolio.vercel.app
 
 📱 Phone: +91 7396531602
 
-💻 GitHub: github.com/satya66123
-
-
-
-
-This creates a folder named <repo-name> with all the code inside.
+💻 GitHub: github.com/satyasrinath6
